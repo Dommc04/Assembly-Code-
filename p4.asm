@@ -1,6 +1,6 @@
-;Name: Dominic McElroy 
-;Date: 2/22/2025
-;Purpose: Swapping between two characters
+; Name: Dominic McElroy 
+; Date: 2/22/2025
+; Purpose: Swapping between two characters
 
 section .data
     prompt db "Enter a two-character string: ", 0  
